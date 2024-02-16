@@ -42,6 +42,7 @@ Flutter is an open-source UI software development kit created by Google. It is u
 ## Dart Basics
 
 [Summary of Dart programming language basics, covering syntax, types, functions, and more.]
+  - [Types]
 
 ## Flutter Widgets Deep Dive
 
