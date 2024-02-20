@@ -1,0 +1,50 @@
+Container: A versatile widget for styling and positioning.
+Row: For creating a horizontal layout of widgets.
+Column: For creating a vertical layout of widgets.
+Text: To display text.
+Image: For displaying images.
+FlatButton (Deprecated, use TextButton instead): A flat style button.
+RaisedButton (Deprecated, use ElevatedButton instead): A button with elevation.
+ElevatedButton: A button with a material elevation.
+TextButton: A replacement for FlatButton, for text-style buttons.
+IconButton: A button that uses an icon as its label.
+Scaffold: Provides the basic material design visual layout structure.
+AppBar: A material design app bar.
+FloatingActionButton: A circular button typically used for primary actions.
+Drawer: A slide-in menu from the edge of the screen.
+BottomNavigationBar: For navigation at the bottom of the screen.
+TabBar: For tabs usually located at the top of the screen.
+ListView: For displaying a scrolling list of elements.
+GridView: For displaying items in a grid layout.
+Stack: For overlapping widgets.
+Wrap: For displaying widgets in multiple lines if there's not enough space.
+Padding: To add padding around a widget.
+Center: To center a widget within its parent.
+Align: For aligning a widget within its parent.
+Expanded: For expanding a child of Row, Column, or Flex.
+Flexible: For creating a flexible layout that can adjust its child widget.
+AspectRatio: For adjusting a widget's aspect ratio.
+ClipRRect: For clipping a widget with rounded corners.
+CircleAvatar: For displaying a circular avatar image.
+Divider: A thin horizontal or vertical space with optional padding.
+Opacity: For making a widget semi-transparent.
+SizedBox: For giving a fixed size to its child.
+Spacer: For creating space between widgets in a Flex container (Row or Column).
+TextField: For inputting text from the keyboard.
+Form: For grouping multiple form fields.
+DropdownButton: For selecting from a dropdown list.
+SnackBar: For displaying brief messages.
+AlertDialog: For showing alerts and dialogs.
+MaterialPageRoute: For navigating between screens with material page transitions.
+InkWell: For adding tap feedback to custom widgets.
+GestureDetector: For detecting various gestures.
+AnimatedContainer: For animating the properties of a container.
+Hero: For creating hero animations between screens.
+FutureBuilder: For building widgets based on the latest snapshot of interaction with a Future.
+StreamBuilder: For building widgets based on the latest snapshot of interaction with a Stream.
+ValueListenableBuilder: For building widgets based on changes to a ValueListenable.
+LimitedBox: For limiting the size of its child if it's unconstrained.
+Placeholder: A widget that draws a box that represents where other widgets will eventually be loaded.
+RichText: For displaying text using multiple styles.
+SelectableText: For displaying selectable text.
+DataTable: For displaying data in a table format.
