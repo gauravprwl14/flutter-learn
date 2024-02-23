@@ -1,7 +1,7 @@
 Container: A versatile widget for styling and positioning.
 Row: For creating a horizontal layout of widgets.
 Column: For creating a vertical layout of widgets.
-Text: To display text.
+Text: To display text and static content.
 Image: For displaying images.
 FlatButton (Deprecated, use TextButton instead): A flat style button.
 RaisedButton (Deprecated, use ElevatedButton instead): A button with elevation.
