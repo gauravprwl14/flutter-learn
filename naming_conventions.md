@@ -26,7 +26,6 @@ A comprehensive guide to naming conventions in Flutter/Dart development, aimed a
 
 ## Variables (Local and Global)
 
-* hellow
 
 - **Convention**: lowerCamelCase
 - **Applies to**: All variable names, including constants.
