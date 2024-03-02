@@ -6,7 +6,7 @@ Image: For displaying images.
 FlatButton (Deprecated, use TextButton instead): A flat style button.
 RaisedButton (Deprecated, use ElevatedButton instead): A button with elevation.
 ElevatedButton: A button with a material elevation.
-TextButton: A replacement for FlatButton, for text-style buttons.
+TextButton: Areplacement for FlatButton, for text-style buttons.
 IconButton: A button that uses an icon as its label.
 Scaffold: Provides the basic material design visual layout structure.
 AppBar: A material design app bar.
