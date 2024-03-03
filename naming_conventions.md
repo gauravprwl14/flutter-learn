@@ -22,7 +22,7 @@ A comprehensive guide to naming conventions in Flutter/Dart development, aimed a
 
 - **Convention**: UpperCamelCase (PascalCase)
 - **Applies to**: All class names, including Flutter widgets, models, controllers, and services.
-- **Example**: `UserProfile`, `LoginPage`, `UserModel`, `AuthService`
+- **Example**: `UserProfile`, `LoginPage`, `UserModel`, `AuthService`, `PaymentService`
 
 ## Variables (Local and Global)
 
