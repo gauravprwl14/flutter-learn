@@ -16,7 +16,7 @@ A comprehensive guide to naming conventions in Flutter/Dart development, aimed a
 
 - **Convention**: Lowercase with underscore (snake_case)
 - **Applies to**: Both Dart files and asset folders.
-- **Example**: `user_profile.dart`, `image_assets/`, `login_page.dart`
+- **Example**: `user_profile.dart`, `image_assets/`, `login_page.dart`,
 
 ## Class Components (Including Widgets)
 
